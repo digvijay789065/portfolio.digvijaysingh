@@ -71,7 +71,6 @@ portfolio/
 
 ---
 
-## 🔗 Live Demo & Repository
+## 🔗 Live Demo
 
-🌍 **Live Site:** [digvijaysinghpundir.netlify.app](https://digvijaysinghpundir.netlify.app/)  
-📦 **GitHub Repo:** [github.com/digvijay789065/portfolio.digvijaysingh](https://github.com/digvijay789065/portfolio.digvijaysingh)
+🌍 **Live Site:** [digvijaysinghpundir.netlify.app](https://digvijaysinghpundir.netlify.app/)
