@@ -23,18 +23,27 @@ Follow these steps to run the project locally 👇
 ### 📦 Install dependencies
 ```bash
 npm install
+```
 
----
-##🧑‍💻 Run development server
+### 🧑‍💻 Run development server
+```bash
 npm run dev
+```
 
-##🏗️ Build for production
+### 🏗️ Build for production
+```bash
 npm run build
+```
 
-##🔍 Preview production build
+### 🔍 Preview production build
+```bash
 npm run preview
+```
+
 ---
-##📁 Folder Structure
+
+## 📁 Folder Structure
+```
 portfolio/
 │
 ├── public/
@@ -50,17 +59,19 @@ portfolio/
 ├── index.html
 ├── package.json
 └── tailwind.config.js
+```
+
 ---
-##💡 Highlights
 
-⚛️ Component-based architecture — organized, reusable, and scalable
+## 💡 Highlights
 
-🎨 Tailwind CSS — fast and responsive UI design
+- ⚛️ **Component-based architecture** — organized, reusable, and scalable  
+- 🎨 **Tailwind CSS** — fast and responsive UI design  
+- 🌍 **Deployed on Netlify** — smooth CI/CD and hosting setup  
 
-🌍 Deployed on Netlify — smooth CI/CD and hosting setup
+---
 
-🔗 Live Demo & Repository
+## 🔗 Live Demo & Repository
 
-🌍 Live Site: https://digvijaysinghpundir.netlify.app/
-
-📦 GitHub Repo: https://github.com/digvijay789065/portfolio.digvijaysingh
+🌍 **Live Site:** [digvijaysinghpundir.netlify.app](https://digvijaysinghpundir.netlify.app/)  
+📦 **GitHub Repo:** [github.com/digvijay789065/portfolio.digvijaysingh](https://github.com/digvijay789065/portfolio.digvijaysingh)
